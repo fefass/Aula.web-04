@@ -51,6 +51,10 @@ var atribuicao = 'lucas';
 var comparacao = "0" == 0;
 console.log(comparacao);
 
+let texto = prompt();
+alert(texto)
+console.log(texto);
+
 // comparação identica
 var comparacaoIdentica = "0" === 0;
 console.log(comparacaoIdentica);
